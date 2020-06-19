@@ -1,0 +1,1283 @@
+[
+    {
+      "Name": "361 Degrees",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Jinjiang",
+      "Notes": "Sporting goods"
+    },
+    {
+      "Name": "Agricultural Bank of China",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Beijing",
+      "Notes": "Bank"
+    },
+    {
+      "Name": "Aigo",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Beijing",
+      "Notes": "Consumer electronics"
+    },
+    {
+      "Name": "Air China",
+      "Industry": "Consumer services",
+      "Sector": "Airlines",
+      "Headquarters": "Beijing",
+      "Notes": "Flag-carrier airline"
+    },
+    {
+      "Name": "Alibaba Group",
+      "Industry": "Technology",
+      "Sector": "Internet",
+      "Headquarters": "Hangzhou",
+      "Notes": "Online holdings"
+    },
+    {
+      "Name": "Aluminum Corporation of China Limited",
+      "Industry": "Basic materials",
+      "Sector": "Aluminum",
+      "Headquarters": "Beijing",
+      "Notes": "Aluminum"
+    },
+    {
+      "Name": "Amoi",
+      "Industry": "Industrials",
+      "Sector": "Electronic equipment",
+      "Headquarters": "Xiamen",
+      "Notes": "Electronics manufacturing"
+    },
+    {
+      "Name": "Anta Sports",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Jinjiang",
+      "Notes": "Sportswear"
+    },
+    {
+      "Name": "Baidu",
+      "Industry": "Technology",
+      "Sector": "Internet",
+      "Headquarters": "Beijing",
+      "Notes": "Web services"
+    },
+    {
+      "Name": "Bank of China",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Beijing",
+      "Notes": "State-owned bank"
+    },
+    {
+      "Name": "Bank of Communications",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Shanghai",
+      "Notes": "Bank"
+    },
+    {
+      "Name": "China Baowu Steel Group",
+      "Industry": "Basic materials",
+      "Sector": "Iron & steel",
+      "Headquarters": "Shanghai",
+      "Notes": "Steel"
+    },
+    {
+      "Name": "Beijing Hualian Group",
+      "Industry": "Consumer services",
+      "Sector": "Broadline retailers",
+      "Headquarters": "Beijing",
+      "Notes": "Retailer"
+    },
+    {
+      "Name": "Bolisi",
+      "Industry": "Consumer goods",
+      "Sector": "Personal products",
+      "Headquarters": "?",
+      "Notes": "Hair care products"
+    },
+    {
+      "Name": "Bosideng",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Shanghai",
+      "Notes": "Apparel"
+    },
+    {
+      "Name": "Brilliance Auto",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Shenyang",
+      "Notes": "Automobiles"
+    },
+    {
+      "Name": "BYD Auto",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Xi'an",
+      "Notes": "Automobile, bus, etc."
+    },
+    {
+      "Name": "Changan Automobile",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Chongqing",
+      "Notes": "State-owned automotive"
+    },
+    {
+      "Name": "Changhe",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Jingdezhen",
+      "Notes": "Automobiles"
+    },
+    {
+      "Name": "Changhong",
+      "Industry": "Consumer goods",
+      "Sector": "Durable household products",
+      "Headquarters": "Mianyang",
+      "Notes": "Appliances"
+    },
+    {
+      "Name": "Changhong Technology",
+      "Industry": "Basic materials",
+      "Sector": "Commodity chemicals",
+      "Headquarters": "Shenzhen",
+      "Notes": "Plastic"
+    },
+    {
+      "Name": "Chery Automobile",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Wuhu",
+      "Notes": "Automobiles"
+    },
+    {
+      "Name": "China Clean Energy",
+      "Industry": "Basic materials",
+      "Sector": "Specialty chemicals",
+      "Headquarters": "Fuqing",
+      "Notes": "Specialty chemicals, Energy"
+    },
+    {
+      "Name": "China Communications Construction",
+      "Industry": "Industrials",
+      "Sector": "Heavy construction",
+      "Headquarters": "Beijing",
+      "Notes": "Construction"
+    },
+    {
+      "Name": "China Construction Bank",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Beijing",
+      "Notes": "Bank"
+    },
+    {
+      "Name": "China COSCO Shipping",
+      "Industry": "Industrials",
+      "Sector": "Marine transportation",
+      "Headquarters": "Shanghai",
+      "Notes": "Formed from COSCO and China Shipping Group"
+    },
+    {
+      "Name": "China Dongxiang",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Beijing",
+      "Notes": "Sportswear"
+    },
+    {
+      "Name": "China Eastern Airlines",
+      "Industry": "Consumer services",
+      "Sector": "Airlines",
+      "Headquarters": "Shanghai",
+      "Notes": "Airline"
+    },
+    {
+      "Name": "China Housing and Land Development",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Xi'an",
+      "Notes": "Real estate"
+    },
+    {
+      "Name": "China International Marine Containers",
+      "Industry": "Industrials",
+      "Sector": "Marine transportation",
+      "Headquarters": "Shenzhen",
+      "Notes": "Shipping, logistics"
+    },
+    {
+      "Name": "China Life Insurance Company",
+      "Industry": "Financials",
+      "Sector": "Life insurance",
+      "Headquarters": "Beijing",
+      "Notes": "Life insurance"
+    },
+    {
+      "Name": "China Medical Technologies",
+      "Industry": "Health care",
+      "Sector": "Medical technology",
+      "Headquarters": "Beijing",
+      "Notes": "Medical devices"
+    },
+    {
+      "Name": "China Merchants Bank",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Shenzhen",
+      "Notes": "Bank"
+    },
+    {
+      "Name": "China Merchants Energy Shipping",
+      "Industry": "Industrials",
+      "Sector": "Marine transportation",
+      "Headquarters": "Shanghai",
+      "Notes": "Shipping line"
+    },
+    {
+      "Name": "China Metal Recycling",
+      "Industry": "Industrials",
+      "Sector": "Waste & disposal services",
+      "Headquarters": "Guangzhou",
+      "Notes": "Recycling"
+    },
+    {
+      "Name": "China Mobile",
+      "Industry": "Telecommunications",
+      "Sector": "Mobile telecommunications",
+      "Headquarters": "Beijing",
+      "Notes": "State-owned mobile"
+    },
+    {
+      "Name": "China National Erzhong Group",
+      "Industry": "Industrials",
+      "Sector": "Diversified industrials",
+      "Headquarters": "Deyang",
+      "Notes": "Forge and metal working"
+    },
+    {
+      "Name": "China National Offshore Oil Corporation",
+      "Industry": "Oil & gas",
+      "Sector": "Exploration & production",
+      "Headquarters": "Beijing",
+      "Notes": "Oil company"
+    },
+    {
+      "Name": "China National Petroleum Corporation",
+      "Industry": "Oil & gas",
+      "Sector": "Exploration & production",
+      "Headquarters": "Beijing",
+      "Notes": "State-owned oil & gas"
+    },
+    {
+      "Name": "China Natural Gas",
+      "Industry": "Oil & gas",
+      "Sector": "Exploration & production",
+      "Headquarters": "Xi'an",
+      "Notes": "Oil & gas"
+    },
+    {
+      "Name": "China Nepstar",
+      "Industry": "Health care",
+      "Sector": "Pharmaceuticals",
+      "Headquarters": "Shenzhen",
+      "Notes": "Pharmacy chain"
+    },
+    {
+      "Name": "China Netcom",
+      "Industry": "Technology",
+      "Sector": "Internet",
+      "Headquarters": "Beijing",
+      "Notes": "Internet, defunct 2008"
+    },
+    {
+      "Name": "China Pabst Blue Ribbon",
+      "Industry": "Consumer goods",
+      "Sector": "Brewers",
+      "Headquarters": "Zhaoqing",
+      "Notes": "Brewery"
+    },
+    {
+      "Name": "China Post",
+      "Industry": "Industrials",
+      "Sector": "Delivery services",
+      "Headquarters": "Beijing",
+      "Notes": "Postal service, shipping"
+    },
+    {
+      "Name": "China Shipping Group",
+      "Industry": "Industrials",
+      "Sector": "Marine transportation",
+      "Headquarters": "Beijing",
+      "Notes": "Merged into China COSCO Shipping"
+    },
+    {
+      "Name": "China Southern Airlines",
+      "Industry": "Consumer services",
+      "Sector": "Airlines",
+      "Headquarters": "Guangzhou",
+      "Notes": "Airline"
+    },
+    {
+      "Name": "China State Construction Engineering",
+      "Industry": "Industrials",
+      "Sector": "Heavy construction",
+      "Headquarters": "Beijing",
+      "Notes": "State construction and contracting"
+    },
+    {
+      "Name": "China Telecom",
+      "Industry": "Telecommunications",
+      "Sector": "Fixed line telecommunications",
+      "Headquarters": "Beijing",
+      "Notes": "State-owned communications"
+    },
+    {
+      "Name": "China Three Gorges Corporation",
+      "Industry": "Utilities",
+      "Sector": "Alternative electricity",
+      "Headquarters": "Beijing",
+      "Notes": "Principal for the Three Gorges Dam"
+    },
+    {
+      "Name": "China Tobacco",
+      "Industry": "Consumer goods",
+      "Sector": "Tobacco",
+      "Headquarters": "Beijing",
+      "Notes": "Tobacco"
+    },
+    {
+      "Name": "China Unicom",
+      "Industry": "Telecommunications",
+      "Sector": "Mobile telecommunications",
+      "Headquarters": "Beijing",
+      "Notes": "State-owned mobile network"
+    },
+    {
+      "Name": "China Universal",
+      "Industry": "Financials",
+      "Sector": "Investment services",
+      "Headquarters": "Shanghai",
+      "Notes": "Investment management"
+    },
+    {
+      "Name": "China Wu Yi",
+      "Industry": "Industrials",
+      "Sector": "Heavy construction",
+      "Headquarters": "Fuzhou",
+      "Notes": "Construction"
+    },
+    {
+      "Name": "China Zhongwang",
+      "Industry": "Basic materials",
+      "Sector": "Aluminum",
+      "Headquarters": "Liaoyang",
+      "Notes": "Aluminum"
+    },
+    {
+      "Name": "Chunlan Group",
+      "Industry": "Industrials",
+      "Sector": "Electronic equipment",
+      "Headquarters": "Taizhou",
+      "Notes": "Air conditioners, engines"
+    },
+    {
+      "Name": "CITIC Group",
+      "Industry": "Financials",
+      "Sector": "Investment services",
+      "Headquarters": "Beijing",
+      "Notes": "Investment management"
+    },
+    {
+      "Name": "CNHLS",
+      "Industry": "Consumer services",
+      "Sector": "Restaurants & bars",
+      "Headquarters": "Fuzhou",
+      "Notes": "Fast food chain"
+    },
+    {
+      "Name": "Comac",
+      "Industry": "Industrials",
+      "Sector": "Aerospace",
+      "Headquarters": "Shanghai",
+      "Notes": "Aircraft"
+    },
+    {
+      "Name": "Commercial Press",
+      "Industry": "Consumer services",
+      "Sector": "Publishing",
+      "Headquarters": "Beijing",
+      "Notes": "Publishing"
+    },
+    {
+      "Name": "COSCO",
+      "Industry": "Industrials",
+      "Sector": "Marine transportation",
+      "Headquarters": "Beijing",
+      "Notes": "Shipping line, now China COSCO Shipping"
+    },
+    {
+      "Name": "Dalian Hi-Think Computer (DHC)",
+      "Industry": "Industrials",
+      "Sector": "Business support services",
+      "Headquarters": "Dalian",
+      "Notes": "Outsourcing"
+    },
+    {
+      "Name": "Dashang Group",
+      "Industry": "Consumer services",
+      "Sector": "Broadline retailers",
+      "Headquarters": "Dalian",
+      "Notes": "Department stores"
+    },
+    {
+      "Name": "Dayun Group",
+      "Industry": "Industrials",
+      "Sector": "Automobiles",
+      "Headquarters": "Yuncheng",
+      "Notes": "Engines, trucks, motorcycles, etc."
+    },
+    {
+      "Name": "Dicos",
+      "Industry": "Consumer services",
+      "Sector": "Restaurants & bars",
+      "Headquarters": "Chengdu",
+      "Notes": "Fast food"
+    },
+    {
+      "Name": "Dongfeng Motor Corporation",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Wuhan",
+      "Notes": "State-owned automotive"
+    },
+    {
+      "Name": "DXY.cn",
+      "Industry": "Technology",
+      "Sector": "Internet",
+      "Headquarters": "Zhenjiang",
+      "Notes": "Online community"
+    },
+    {
+      "Name": "Eisoo",
+      "Industry": "Technology",
+      "Sector": "Internet",
+      "Headquarters": "Shanghai",
+      "Notes": "cloud computing"
+    },
+    {
+      "Name": "Eno",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Shanghai",
+      "Notes": "Apparel"
+    },
+    {
+      "Name": "ERKE",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Quanzhou",
+      "Notes": "Sportwear"
+    },
+    {
+      "Name": "FAW Group",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Changchun",
+      "Notes": "State-owned automotive"
+    },
+    {
+      "Name": "Feicheng Acid Chemicals",
+      "Industry": "Basic materials",
+      "Sector": "Specialty chemicals",
+      "Headquarters": "Feicheng",
+      "Notes": "Chemicals"
+    },
+    {
+      "Name": "Feiyue",
+      "Industry": "Consumer goods",
+      "Sector": "Footwear",
+      "Headquarters": "Shanghai",
+      "Notes": "Shoes"
+    },
+    {
+      "Name": "Founder Group",
+      "Industry": "Technology",
+      "Sector": "Computer services",
+      "Headquarters": "Beijing",
+      "Notes": "Information technology, part of Peking University"
+    },
+    {
+      "Name": "Fushi Copperweld",
+      "Industry": "Industrials",
+      "Sector": "Electronic equipment",
+      "Headquarters": "Beijing",
+      "Notes": "Electrical conductors"
+    },
+    {
+      "Name": "GAC Group",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Guangzhou",
+      "Notes": "State-owned automotive"
+    },
+    {
+      "Name": "Geely",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Hangzhou",
+      "Notes": "Automobiles"
+    },
+    {
+      "Name": "Gome",
+      "Industry": "Consumer services",
+      "Sector": "Specialty retailers",
+      "Headquarters": "Beijing",
+      "Notes": "Appliance retailer"
+    },
+    {
+      "Name": "Great Leap Brewing",
+      "Industry": "Consumer goods",
+      "Sector": "Brewers",
+      "Headquarters": "Beijing",
+      "Notes": "Microbrewery"
+    },
+    {
+      "Name": "Gree Electric",
+      "Industry": "Consumer goods",
+      "Sector": "Durable household products",
+      "Headquarters": "Zhuhai",
+      "Notes": "Appliances"
+    },
+    {
+      "Name": "GreenTree Inns",
+      "Industry": "Consumer services",
+      "Sector": "Hotels",
+      "Headquarters": "Shanghai",
+      "Notes": "Hotel chain"
+    },
+    {
+      "Name": "Guangzhou Zhujiang Brewery Group",
+      "Industry": "Consumer goods",
+      "Sector": "Brewers",
+      "Headquarters": "Guangzhou",
+      "Notes": "Brewery"
+    },
+    {
+      "Name": "Gushan Environmental Energy",
+      "Industry": "Oil & gas",
+      "Sector": "Exploration & production",
+      "Headquarters": "Fuzhou",
+      "Notes": "Energy"
+    },
+    {
+      "Name": "Hafei",
+      "Industry": "Industrials",
+      "Sector": "Electronic equipment",
+      "Headquarters": "Harbin",
+      "Notes": "Engines, trucks"
+    },
+    {
+      "Name": "Haier",
+      "Industry": "Consumer goods",
+      "Sector": "Durable household products",
+      "Headquarters": "Qingdao",
+      "Notes": "Consumer electronics, home appliances"
+    },
+    {
+      "Name": "Hainan Airlines",
+      "Industry": "Consumer services",
+      "Sector": "Airlines",
+      "Headquarters": "Haikou",
+      "Notes": "Airline"
+    },
+    {
+      "Name": "Hangzhou Wahaha Group",
+      "Industry": "Consumer goods",
+      "Sector": "Soft drinks",
+      "Headquarters": "Hangzhou",
+      "Notes": "Beverages"
+    },
+    {
+      "Name": "Harbin Brewery",
+      "Industry": "Consumer goods",
+      "Sector": "Brewers",
+      "Headquarters": "Harbin",
+      "Notes": "Brewery"
+    },
+    {
+      "Name": "Hasee",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Shenzhen",
+      "Notes": "Computers, tablets, mobile phones"
+    },
+    {
+      "Name": "Hefei Meiling",
+      "Industry": "Consumer goods",
+      "Sector": "Durable household products",
+      "Headquarters": "Hefei",
+      "Notes": "Appliances"
+    },
+    {
+      "Name": "Hisense",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Qingdao",
+      "Notes": "Consumer electronics, home appliances, mobile phones"
+    },
+    {
+      "Name": "HiSilicon",
+      "Industry": "Technology",
+      "Sector": "Semiconductors",
+      "Headquarters": "Shenzhen",
+      "Notes": "Semiconductors, part of Huawei"
+    },
+    {
+      "Name": "Huawei",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Shenzhen",
+      "Notes": "Mobile phones, tablets, telecommunication equipment"
+    },
+    {
+      "Name": "Huayi Brothers Media Corporation",
+      "Industry": "Consumer services",
+      "Sector": "Broadcasting & entertainment",
+      "Headquarters": "Beijing",
+      "Notes": "Media"
+    },
+    {
+      "Name": "Huiyuan Juice",
+      "Industry": "Consumer goods",
+      "Sector": "Soft drinks",
+      "Headquarters": "Beijing",
+      "Notes": "Privately owned juice and beverage"
+    },
+    {
+      "Name": "Hytera",
+      "Industry": "Industrials",
+      "Sector": "Electronic equipment",
+      "Headquarters": "Shenzhen",
+      "Notes": "Radios and telecommunications"
+    },
+    {
+      "Name": "Industrial and Commercial Bank of China",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Beijing",
+      "Notes": "Commercial bank"
+    },
+    {
+      "Name": "Inspur",
+      "Industry": "Technology",
+      "Sector": "Computer services",
+      "Headquarters": "Jinan",
+      "Notes": "IT"
+    },
+    {
+      "Name": "JDB Group",
+      "Industry": "Consumer goods",
+      "Sector": "Soft drinks",
+      "Headquarters": "Dongguan",
+      "Notes": "Beverage"
+    },
+    {
+      "Name": "Jiangling Motors",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Nanchang",
+      "Notes": "Automotive"
+    },
+    {
+      "Name": "Jianlibao Group",
+      "Industry": "Consumer goods",
+      "Sector": "Soft drinks",
+      "Headquarters": "Foshan",
+      "Notes": "Soft drink"
+    },
+    {
+      "Name": "Jiuguang Department Store",
+      "Industry": "Consumer services",
+      "Sector": "Broadline retailers",
+      "Headquarters": "Shanghai",
+      "Notes": "Retail"
+    },
+    {
+      "Name": "Joyoung",
+      "Industry": "Consumer goods",
+      "Sector": "Durable household products",
+      "Headquarters": "Jinan",
+      "Notes": "Home appliances"
+    },
+    {
+      "Name": "JXD",
+      "Industry": "Industrials",
+      "Sector": "Electronic equipment",
+      "Headquarters": "Shenzhen",
+      "Notes": "Consumer electronics and games"
+    },
+    {
+      "Name": "Kingsoft",
+      "Industry": "Technology",
+      "Sector": "Software",
+      "Headquarters": "Beijing",
+      "Notes": "Software"
+    },
+    {
+      "Name": "Kingway Brewery",
+      "Industry": "Consumer goods",
+      "Sector": "Brewers",
+      "Headquarters": "Shenzhen",
+      "Notes": "State-owned brewery"
+    },
+    {
+      "Name": "Lenovo",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Beijing",
+      "Notes": "Computers, tablets, mobile phones"
+    },
+    {
+      "Name": "Li-Ning",
+      "Industry": "Consumer goods",
+      "Sector": "Footwear",
+      "Headquarters": "Beijing",
+      "Notes": "Sporting goods"
+    },
+    {
+      "Name": "Little Sheep Group",
+      "Industry": "Consumer services",
+      "Sector": "Restaurants & bars",
+      "Headquarters": "Baotou",
+      "Notes": "Restaurants, condiments"
+    },
+    {
+      "Name": "Loncin Holdings",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Chongqing",
+      "Notes": "Motorcycles"
+    },
+    {
+      "Name": "Lonking",
+      "Industry": "Industrials",
+      "Sector": "Commercial vehicles & trucks",
+      "Headquarters": "Longyan",
+      "Notes": "Construction machinery"
+    },
+    {
+      "Name": "Mailman Group",
+      "Industry": "Technology",
+      "Sector": "Internet",
+      "Headquarters": "Shanghai",
+      "Notes": "Technology and social media agency"
+    },
+    {
+      "Name": "Maoye International",
+      "Industry": "Consumer services",
+      "Sector": "Broadline retailers",
+      "Headquarters": "Shenzhen",
+      "Notes": "Department stores"
+    },
+    {
+      "Name": "Meizu",
+      "Industry": "Consumer goods",
+      "Sector": "Telecommunications equipment",
+      "Headquarters": "Zhuhai",
+      "Notes": "Mobile phones"
+    },
+    {
+      "Name": "Mengniu Dairy",
+      "Industry": "Consumer goods",
+      "Sector": "Food products",
+      "Headquarters": "Hohhot",
+      "Notes": "Dairy products, ice cream"
+    },
+    {
+      "Name": "Meters/bonwe",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Shanghai",
+      "Notes": "Apparel"
+    },
+    {
+      "Name": "Midea Group",
+      "Industry": "Consumer goods",
+      "Sector": "Durable household products",
+      "Headquarters": "Beijiao",
+      "Notes": "Appliances"
+    },
+    {
+      "Name": "Mingyang Wind Power",
+      "Industry": "Utilities",
+      "Sector": "Alternative electricity",
+      "Headquarters": "Zhongshan",
+      "Notes": "Wind power"
+    },
+    {
+      "Name": "Miniso",
+      "Industry": "Consumer services",
+      "Sector": "Broadline retailers",
+      "Headquarters": "Guangzhou",
+      "Notes": "Low-cost variety stores"
+    },
+    {
+      "Name": "Mr. Lee",
+      "Industry": "Consumer services",
+      "Sector": "Restaurants & bars",
+      "Headquarters": "Beijing",
+      "Notes": "Fast food"
+    },
+    {
+      "Name": "Nanjing Automobile",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Nanjing",
+      "Notes": "State-owned automotive"
+    },
+    {
+      "Name": "Neusoft",
+      "Industry": "Technology",
+      "Sector": "Software",
+      "Headquarters": "Shenyang",
+      "Notes": "Software"
+    },
+    {
+      "Name": "Ningbo Bird",
+      "Industry": "Telecommunications",
+      "Sector": "Mobile telecommunications",
+      "Headquarters": "Fenghua District",
+      "Notes": "Mobile phones"
+    },
+    {
+      "Name": "Opple Lighting",
+      "Industry": "Industrials",
+      "Sector": "Building materials & fixtures",
+      "Headquarters": "Zhongshan",
+      "Notes": "Lighting"
+    },
+    {
+      "Name": "Panda Electronics",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Nanjing",
+      "Notes": "Consumer electronics"
+    },
+    {
+      "Name": "Peak Sport Products",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Quanzhou",
+      "Notes": "Sportswear"
+    },
+    {
+      "Name": "Pearl River Piano Group",
+      "Industry": "Consumer goods",
+      "Sector": "Recreational products",
+      "Headquarters": "Guangzhou",
+      "Notes": "Pianos"
+    },
+    {
+      "Name": "People's Insurance Company of China",
+      "Industry": "Financials",
+      "Sector": "Full line insurance",
+      "Headquarters": "Beijing",
+      "Notes": "Insurance"
+    },
+    {
+      "Name": "Ping An Bank",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Shenzhen",
+      "Notes": "Bank, part of Ping An Insurance"
+    },
+    {
+      "Name": "Ping An Insurance",
+      "Industry": "Financials",
+      "Sector": "Full line insurance",
+      "Headquarters": "Shenzhen",
+      "Notes": "Insurance"
+    },
+    {
+      "Name": "Qihoo 360",
+      "Industry": "Technology",
+      "Sector": "Software",
+      "Headquarters": "Beijing",
+      "Notes": "Software"
+    },
+    {
+      "Name": "Qinghai Huading Industrial",
+      "Industry": "Industrials",
+      "Sector": "Industrial machinery",
+      "Headquarters": "Xining",
+      "Notes": "Mechanical products"
+    },
+    {
+      "Name": "SAIC-GM",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Shanghai",
+      "Notes": "Joint venture with General Motors (US) and SAIC Motor"
+    },
+    {
+      "Name": "SAIC Motor",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Shanghai",
+      "Notes": "Automobiles"
+    },
+    {
+      "Name": "Sany",
+      "Industry": "Industrials",
+      "Sector": "Industrial machinery",
+      "Headquarters": "Changsha",
+      "Notes": "Machinery"
+    },
+    {
+      "Name": "Septwolves",
+      "Industry": "Consumer goods",
+      "Sector": "Tobacco",
+      "Headquarters": "Jinjiang",
+      "Notes": "Tobacco, clothing"
+    },
+    {
+      "Name": "Shaanxi Automobile Group",
+      "Industry": "Industrials",
+      "Sector": "Commercial vehicles & trucks",
+      "Headquarters": "Xi'an",
+      "Notes": "Trucks, buses"
+    },
+    {
+      "Name": "Shaanxi Yanchang Petroleum",
+      "Industry": "Oil & gas",
+      "Sector": "Exploration & production",
+      "Headquarters": "Xi'an",
+      "Notes": "State-owned oil & gas"
+    },
+    {
+      "Name": "Shanghai Film Group Corporation",
+      "Industry": "Consumer services",
+      "Sector": "Broadcasting & entertainment",
+      "Headquarters": "Shanghai",
+      "Notes": "Film production"
+    },
+    {
+      "Name": "Shanghai Pudong Development Bank",
+      "Industry": "Financials",
+      "Sector": "Banks",
+      "Headquarters": "Shanghai",
+      "Notes": "Commercial bank"
+    },
+    {
+      "Name": "Shenyang Aircraft Corporation",
+      "Industry": "Industrials",
+      "Sector": "Aerospace",
+      "Headquarters": "Shenyang",
+      "Notes": "Aircraft"
+    },
+    {
+      "Name": "Shenzhen Airlines",
+      "Industry": "Consumer services",
+      "Sector": "Airlines",
+      "Headquarters": "Shenzhen",
+      "Notes": "Airline"
+    },
+    {
+      "Name": "Shenzhen Energy",
+      "Industry": "Utilities",
+      "Sector": "Conventional electricity",
+      "Headquarters": "Shenzhen",
+      "Notes": "Power generation"
+    },
+    {
+      "Name": "Shenzhen Media Group",
+      "Industry": "Consumer services",
+      "Sector": "Broadcasting & entertainment",
+      "Headquarters": "Shenzhen",
+      "Notes": "Television and radio"
+    },
+    {
+      "Name": "Shougang",
+      "Industry": "Basic materials",
+      "Sector": "Iron & steel",
+      "Headquarters": "Beijing",
+      "Notes": "Steel"
+    },
+    {
+      "Name": "Shui On Land",
+      "Industry": "Financials",
+      "Sector": "Real estate holding & development",
+      "Headquarters": "Shanghai",
+      "Notes": "Real estate"
+    },
+    {
+      "Name": "Sichuan Airlines",
+      "Industry": "Consumer services",
+      "Sector": "Airlines",
+      "Headquarters": "Chengdu",
+      "Notes": "Airline"
+    },
+    {
+      "Name": "Simcere Pharmaceutical",
+      "Industry": "Health care",
+      "Sector": "Pharmaceuticals",
+      "Headquarters": "Nanjing",
+      "Notes": "Generic drug manufacturer"
+    },
+    {
+      "Name": "Sinoenergy",
+      "Industry": "Oil & gas",
+      "Sector": "Exploration & production",
+      "Headquarters": "Qingdao",
+      "Notes": "Natural gas"
+    },
+    {
+      "Name": "Sinopec",
+      "Industry": "Oil & gas",
+      "Sector": "Exploration & production",
+      "Headquarters": "Beijing",
+      "Notes": "Oil company"
+    },
+    {
+      "Name": "Sinopharm Group",
+      "Industry": "Health care",
+      "Sector": "Pharmaceuticals",
+      "Headquarters": "Shanghai",
+      "Notes": "Pharmaceticals, traditional medicine"
+    },
+    {
+      "Name": "Sinosteel",
+      "Industry": "Basic materials",
+      "Sector": "Iron & steel",
+      "Headquarters": "Beijing",
+      "Notes": "Iron, steel"
+    },
+    {
+      "Name": "Sinovac Biotech",
+      "Industry": "Health care",
+      "Sector": "Pharmaceuticals",
+      "Headquarters": "Beijing",
+      "Notes": "Research, development, manufacture and commercialization of vaccines"
+    },
+    {
+      "Name": "Skyworth",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Shenzhen",
+      "Notes": "Consumer electronics"
+    },
+    {
+      "Name": "SmithStreetSolutions",
+      "Industry": "Industrials",
+      "Sector": "Business support services",
+      "Headquarters": "Shanghai",
+      "Notes": "Consulting"
+    },
+    {
+      "Name": "State Grid Corporation of China",
+      "Industry": "Utilities",
+      "Sector": "Conventional electricity",
+      "Headquarters": "Beijing",
+      "Notes": "Former State Power, national electric company"
+    },
+    {
+      "Name": "Suning Commerce Group",
+      "Industry": "Consumer services",
+      "Sector": "Broadline retailers",
+      "Headquarters": "Nanjing",
+      "Notes": "Retail"
+    },
+    {
+      "Name": "Suntech Power",
+      "Industry": "Industrials",
+      "Sector": "Electronic equipment",
+      "Headquarters": "Wuxi",
+      "Notes": "Photovoltaics (solar cell) manufacturer"
+    },
+    {
+      "Name": "Suzhou Synta Optical Technology",
+      "Industry": "Consumer goods",
+      "Sector": "Recreational products",
+      "Headquarters": "Suzhou",
+      "Notes": "Telescopes, optics, part of Synta Technology Corporation of Taiwan"
+    },
+    {
+      "Name": "TCL Corporation",
+      "Industry": "Consumer goods",
+      "Sector": "Consumer electronics",
+      "Headquarters": "Huizhou",
+      "Notes": "Consumer electronics"
+    },
+    {
+      "Name": "Telesail Technology",
+      "Industry": "Telecommunications",
+      "Sector": "Fixed line telecommunications",
+      "Headquarters": "Beijing",
+      "Notes": "Telecom equipment, services"
+    },
+    {
+      "Name": "Tencent",
+      "Industry": "Conglomerates",
+      "Sector": "Internet services, software, entertainment, artificial intelligence, technology",
+      "Headquarters": "Shenzhen",
+      "Notes": "Internet, software, mobile phones, online advertising, online gaming"
+    },
+    {
+      "Name": "Tianan Insurance",
+      "Industry": "Financials",
+      "Sector": "Full line insurance",
+      "Headquarters": "Shanghai[7]",
+      "Notes": "Insurance"
+    },
+    {
+      "Name": "Tianjin FAW",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Tianjin",
+      "Notes": "Automobiles"
+    },
+    {
+      "Name": "Tongrentang",
+      "Industry": "Health care",
+      "Sector": "Pharmaceuticals",
+      "Headquarters": "Beijing",
+      "Notes": "Pharmaceuticals, traditional medicine"
+    },
+    {
+      "Name": "Topray Solar",
+      "Industry": "Utilities",
+      "Sector": "Alternative electricity",
+      "Headquarters": "Shenzhen",
+      "Notes": "Solar energy"
+    },
+    {
+      "Name": "TP-Link",
+      "Industry": "Technology",
+      "Sector": "Telecommunications equipment",
+      "Headquarters": "Shenzhen",
+      "Notes": "Computer networking devices"
+    },
+    {
+      "Name": "Trands",
+      "Industry": "Consumer goods",
+      "Sector": "Clothing & accessories",
+      "Headquarters": "Dalian",
+      "Notes": "Menswear"
+    },
+    {
+      "Name": "Tsingtao Brewery",
+      "Industry": "Consumer goods",
+      "Sector": "Brewers",
+      "Headquarters": "Qingdao",
+      "Notes": "Brewery"
+    },
+    {
+      "Name": "Vanke",
+      "Industry": "Financials",
+      "Sector": "Real estate holding & development",
+      "Headquarters": "Shenzhen",
+      "Notes": "Real estate"
+    },
+    {
+      "Name": "Vinda International",
+      "Industry": "Basic materials",
+      "Sector": "Paper",
+      "Headquarters": "Xinhui District",
+      "Notes": "Paper"
+    },
+    {
+      "Name": "Vsun",
+      "Industry": "Technology",
+      "Sector": "Telecommunications equipment",
+      "Headquarters": "Shenzhen",
+      "Notes": "Mobile phones"
+    },
+    {
+      "Name": "Wanda Group",
+      "Industry": "Conglomerates",
+      "Sector": "-",
+      "Headquarters": "Beijing",
+      "Notes": "Property developer, real estate, hospitality, retail, tourism, culture"
+    },
+    {
+      "Name": "WuXi PharmaTech",
+      "Industry": "Health care",
+      "Sector": "Pharmaceuticals",
+      "Headquarters": "Shanghai",
+      "Notes": "Laboratory and manufacturing services"
+    },
+    {
+      "Name": "Xi'an Aircraft Industrial Corporation",
+      "Industry": "Industrials",
+      "Sector": "Aerospace",
+      "Headquarters": "Xi'an",
+      "Notes": "Aircraft"
+    },
+    {
+      "Name": "Xiaomi",
+      "Industry": "Consumer goods",
+      "Sector": "Telecommunications equipment",
+      "Headquarters": "Beijing",
+      "Notes": "Mobile phones"
+    },
+    {
+      "Name": "Yili Group",
+      "Industry": "Consumer goods",
+      "Sector": "Food products",
+      "Headquarters": "Hohhot",
+      "Notes": "Dairy and ice-cream"
+    },
+    {
+      "Name": "Yonyou",
+      "Industry": "Technology",
+      "Sector": "Software",
+      "Headquarters": "Beijing",
+      "Notes": "Software"
+    },
+    {
+      "Name": "Yutong Group",
+      "Industry": "Industrials",
+      "Sector": "Commercial vehicles & trucks",
+      "Headquarters": "Zhengzhou",
+      "Notes": "Bus manufacturing"
+    },
+    {
+      "Name": "Zhongjin Gold",
+      "Industry": "Basic materials",
+      "Sector": "Gold mining",
+      "Headquarters": "Beijing",
+      "Notes": "Gold mining"
+    },
+    {
+      "Name": "Zhongjin Lingnan",
+      "Industry": "Basic materials",
+      "Sector": "Nonferrous metals",
+      "Headquarters": "Shenzhen",
+      "Notes": "Metal"
+    },
+    {
+      "Name": "Zoomlion",
+      "Industry": "Industrials",
+      "Sector": "Industrial machinery",
+      "Headquarters": "Changsha",
+      "Notes": "Heavy machinery"
+    },
+    {
+      "Name": "ZTE",
+      "Industry": "Technology",
+      "Sector": "Telecommunications equipment",
+      "Headquarters": "Shenzhen",
+      "Notes": "Telecom equipment"
+    },
+    {
+      "Name": "ZX Auto",
+      "Industry": "Consumer goods",
+      "Sector": "Automobiles",
+      "Headquarters": "Baoding",
+      "Notes": "Automobiles"
+    }
+  ]

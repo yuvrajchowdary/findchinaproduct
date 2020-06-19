@@ -1,9 +1,18 @@
 <div id="container">
-  <ion-item>
-    <ion-input value={text} placeholder="Enter product name" [(ngModel)]="searchtxt"></ion-input>
-  </ion-item>
-<ion-button (click)="search(searchtxt)" shape="round" fill="outline">Find Product</ion-button>
- <div>
-   {{resulttxt}}
- </div>
+    <ion-item>
+        <ion-input value="{text}" placeholder="Enter product name" [(ngModel)]="searchtxt"></ion-input>
+    </ion-item>
+    <ion-button (click)="search(searchtxt)" shape="round" fill="outline">Find Product</ion-button>
+    <div class="clist">
+        {{ resulttxt }}
+        {{ list?.length }}
+
+        <ion-list padding *ngFor="let name of list">
+            <ion-item >
+                <ion-label>{{ name.Name }}</ion-label>
+                <ion-label>{{ name.Industry }}</ion-label>
+                <ion-label>{{ name.Headquarters }}</ion-label>
+            </ion-item>
+        </ion-list>
+    </div>
 </div>
