@@ -1,0 +1,9 @@
+<div id="container">
+  <ion-item>
+    <ion-input value={text} placeholder="Enter product name" [(ngModel)]="searchtxt"></ion-input>
+  </ion-item>
+<ion-button (click)="search(searchtxt)" shape="round" fill="outline">Find Product</ion-button>
+ <div>
+   {{resulttxt}}
+ </div>
+</div>
